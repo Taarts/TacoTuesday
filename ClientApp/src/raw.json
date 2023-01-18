@@ -1,0 +1,206 @@
+{
+  "audio visual": {
+    "title": "Audio/Visual playback",
+    "description": [
+      {
+        "type": "VHS",
+        "heading": "BKS Iyengar Yoga '90 Teaching Series",
+        "subheading": "Q & A Session-45 minutes",
+        "quantity": 1
+      },
+      {
+        "type": "VHS",
+        "heading": "Light on Yoga- 80’s Birthday Celebration - NY Institute",
+        "subheading": "",
+        "quantity": 3
+      },
+      {
+        "type": "VHS",
+        "heading": "BKS Iyengar Yoga ’90 Teaching Series",
+        "subheading": "Master class with senior students - 75mins",
+        "quantity": 1
+      },
+      {
+        "type": "audio",
+        "heading": "101 Yoga Flash Cards & audio tape - Ramanand Patel & Beatrice Biggs",
+        "subheading": "white box",
+        "quantity": 1
+      },
+      {
+        "type": "audio",
+        "heading": "101 Yoga Flash Cards & audio tape - Ramanand Patel & Beatrice Biggs",
+        "subheading": "black box",
+        "quantity": 1
+      }
+    ]
+  },
+  "Magazines": {
+    "title": "Magazines & periodicals",
+    "description": [
+      {
+        "title": "Yoga Samachar",
+        "volume": 15,
+        "issue number": 1,
+        "period": "Spring/Summer 2011",
+        "quantity": 1
+      },
+      {
+        "title": "Yoga Samachar",
+        "volume": 12,
+        "issue number": 1,
+        "period": "Spring/Summer 2008",
+        "quantity": 1
+      },
+      {
+        "title": "Yoga Samachar",
+        "volume": 17,
+        "issue number": 1,
+        "period": "Spring/Summer 2013",
+        "quantity": 1
+      },
+      {
+        "title": "Light on Life Tour-Sri B.K.S. Iyengar",
+        "volume": "",
+        "issue number": "",
+        "period": "October 2005",
+        "quantity": 2
+      },
+      {
+        "title": "A Teacher’s Exchange with Dr. Geeta S. Iyengar",
+        "volume": "",
+        "issue number": "",
+        "period": "May 1996",
+        "quantity": 2
+      },
+      {
+        "title": "Time (Cover-The Science of Yoga)",
+        "volume": 157,
+        "issue number": 16,
+        "period": "April 2001",
+        "quantity": 1
+      },
+      {
+        "title": "The Original Yoga Props Guide Book",
+        "volume": "",
+        "issue number": "",
+        "period": "1990",
+        "quantity": 1
+      },
+      {
+        "title": "Namarupa: The Yoga of the Body",
+        "volume": "",
+        "issue number": 4,
+        "period": "2000",
+        "quantity": 1
+      }
+    ]
+  },
+  "Yoga Books": {
+    "title": "Yoga Books",
+    "description": [
+      {
+        "title": "Yoga for Healthy Bones-A Womans Guide : First Edition",
+        "author": "Linda Sparrowe",
+        "publisher": "Shambhala Publications, Inc",
+        "publication date": "2004",
+        "quantity": 1,
+        "ISBN": "978-1590301173"
+      },
+      {
+        "title": "The Tree of Yoga",
+        "author": "B.K.S. Iyengar",
+        "publisher": "INDUS- an imprint of HarperCollins Publishers India Pvt Ltd",
+        "publication date": "1995",
+        "quantity": 1,
+        "ISBN": "978-1570629013"
+      },
+      {
+        "title": "Yoga-A Gem for Women : First paperback edition",
+        "author": "Geeta S. Iyengar",
+        "publisher": "Timeless Books",
+        "publication date": "1990",
+        "quantity": 1,
+        "ISBN": "978-8170237150"
+      },
+      {
+        "title": "Yoga the Iyengar Way",
+        "author": "Silva, Mira & Shyam Mehta",
+        "publisher": "Alfred A. Knopf, Inc",
+        "publication date": "1990",
+        "quantity": 1,
+        "ISBN": "978-0679722878"
+      },
+      {
+        "title": "Light on the Yoga Sutras of Patanjali",
+        "author": "B.K.S. Iyengar",
+        "publisher": "The Aquarian Press- an imprint of HarperCollins Publishers",
+        "publication date": "1993",
+        "quantity": 1,
+        "ISBN": "978-0007145164"
+      },
+      {
+        "title": "The Pocket Krishnamurti",
+        "author": "Jiddu Krishnamurti",
+        "publisher": "Shambhala Publications, Inc",
+        "publication date": "2009: First Edition",
+        "quantity": 1,
+        "ISBN": "978-1590307106"
+      }
+    ]
+  },
+  "yoga props": {
+    "title": "props",
+    "description": [
+      {
+        "imageURL": "https://i.etsystatic.com/20155660/r/il/ee9976/3835241172/il_1140xN.3835241172_29u6.jpg",
+        "sourceURL": "https://www.etsy.com/shop/YogikutiYogaprops?ref=simple-shop-header-name&listing_id=695579462",
+        "id": "000001",
+        "type": "wooden",
+        "name": "single halasana box",
+        "description": "solid sided 3 sided box; 1/2 inch thick cedar",
+        "quantity": "4",
+        "price": ""
+      },
+      {
+        "imageURL": "https://i.etsystatic.com/20155660/r/il/c32e16/2088809524/il_1140xN.2088809524_nf5c.jpg",
+        "sourceURL": "https://www.etsy.com/shop/YogikutiYogaprops?ref=simple-shop-header-name&listing_id=695579462",
+        "id": "000002",
+        "type": "wooden",
+        "name": "simhasana box",
+        "description": "angled box; 1/2 inch thick marine ply",
+        "quantity": "2",
+        "price": ""
+      },
+      {
+        "imageURL": "",
+        "sourceURL": "",
+        "id": "000003",
+        "type": "soft",
+        "name": "6ft belt",
+        "description": "cotton material webbing, square buckle belt",
+        "quantity": "20",
+        "price": ""
+      },
+      {
+        "imageURL": "https://i.etsystatic.com/20155660/r/il/1f59dd/3819417042/il_1140xN.3819417042_35zn.jpg",
+        "sourceURL": "https://www.etsy.com/shop/YogikutiYogaprops?ref=simple-shop-header-name&listing_id=695579462si",
+        "id": "000004",
+        "type": "soft",
+        "name": "indian cotton blanket",
+        "description": "tight weft soft cotton blankets",
+        "quantity": "40",
+        "price": "119.00/4"
+      },
+      {
+        "imageURL": "",
+        "sourceURL": "",
+        "id": "000005",
+        "type": "wooden",
+        "name": "yoga bricks",
+        "description": "solid cedar",
+        "quantity": "40",
+        "price": ""
+      }
+    ]
+  }
+}
