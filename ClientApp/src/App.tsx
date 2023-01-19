@@ -1,6 +1,8 @@
 import React from 'react'
 import { Restaurants } from './pages/Restaurants'
 import avatar from './images/avatar.png'
+import { Restaurant } from './pages/Restaurant'
+import { SignUp } from './pages/SignUp'
 
 export function App() {
   return (

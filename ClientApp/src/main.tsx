@@ -1,6 +1,5 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-// import Root from './routes/root'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import { QueryClientProvider, QueryClient } from 'react-query'
 
@@ -13,7 +12,6 @@ const router = createBrowserRouter([
     element: <App />,
   },
 ])
-// const queryClient = new QueryClient()
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
