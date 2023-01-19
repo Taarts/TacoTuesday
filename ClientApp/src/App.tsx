@@ -1,17 +1,31 @@
 import React from 'react'
+import { Restaurants } from './pages/Restaurants'
+import avatar from './images/avatar.png'
 
 export function App() {
   return (
-    <div>
-      <body className="wrapper">
-        <header>
-          <nav></nav>
-        </header>
-        <p>welcome</p>
-        <h1>Lorem ipsum dolor</h1>
-        <h3>everything in it's right place</h3>
-        <p>start</p>
-      </body>
-    </div>
+    <>
+      <header>
+        <ul>
+          <li>
+            <nav>
+              <a href="#">
+                <i className="fa fa-plus"></i> Restaurant
+              </a>
+              <p>Welcome back, Steve!</p>
+            </nav>
+          </li>
+          <li className="avatar">
+            <img src={avatar} alt="Steve's Avatar" height="64" width="64" />
+          </li>
+        </ul>
+      </header>
+      <Restaurants />
+      <footer>
+        <p>
+          Built with <i className="fa fa-heart"></i> in St Petersburg, Florida.
+        </p>
+      </footer>
+    </>
   )
 }
